@@ -5,6 +5,7 @@
 -By 0xAbhiSec
 
 Methodical Mindset: Intermediate Penetration Testing — TryHackMe Room
+
 Also read my Medium article here: https://medium.com/@0xAbhiSec/how-to-think-like-a-penetration-tester-the-methodical-mindset-approach-c458f9cad78e
 
 In cybersecurity, many learners master tools before mastering thinking.
