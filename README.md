@@ -49,4 +49,5 @@ Unauthorized testing is illegal.
 **abhi04anon**
 
 Medium: https://medium.com/@0xAbhiSec
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/abhi04anon
+Linkedin: https://www.linkedin.com/in/abhirup-sarkar-/
